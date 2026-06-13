@@ -27,6 +27,14 @@ A cloud-ready Employee Management System built with **Spring Boot**, **MySQL**, 
 | Cloud        | AWS (ECR, ECS)                |
 | CI/CD        | GitHub Actions               |
 
+## Screenshots
+
+![Swagger UI - API Documentation](Screenshot%202026-06-13%20125155.png)
+
+![Swagger UI - Endpoints](Screenshot%202026-06-13%20125159.png)
+
+![Swagger UI - Schema](Screenshot%202026-06-13%20125204.png)
+
 ## Project Structure
 
 ```
